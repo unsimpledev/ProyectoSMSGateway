@@ -43,7 +43,17 @@ En los archivos config.php y Configuracion de la app, se deben cambiar los valor
 
   ![smsgateway_androidstudio8](https://github.com/unsimpledev/ProyectoSMSGateway/assets/120734027/d7d15649-4054-46fc-8011-46ddda8535d2)
 
-<h3>10) Ejecutar - Es mejor ejecutar en un dispositivo real ya que el objetivo de la App es enviar SMS</h3>
+<h2>BackEnd - Paso a Paso</h2>
 
-  ![smsgateway_androidstudio10](https://github.com/unsimpledev/ProyectoSMSGateway/assets/120734027/7081b3a2-1e38-4810-81de-cb0da8c91d03)
+<h3>1) Ejecutar el script de la base de datos - crear el usuario</h3>
+
+![db1](https://github.com/unsimpledev/ProyectoSMSGateway/assets/120734027/261ca8e6-7484-4eb9-aa74-4b8f0658c2e9)
+
+<h3>2) Subir la carpeta SMSGatewayBE al servidor</h3>
+
+![be1](https://github.com/unsimpledev/ProyectoSMSGateway/assets/120734027/9b16138c-467d-43be-91a4-c10fd0556393)
+
+<h3>3) Ajustar los valores de las constantes de configuración para el entorno</h3>
+
+![be2](https://github.com/unsimpledev/ProyectoSMSGateway/assets/120734027/ce8d87e4-deab-47a4-b96a-b1ea2ce9ddc4)
 
